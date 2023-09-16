@@ -1,0 +1,75 @@
+.nav{
+	background: #788a7c !important;
+}
+.banner{
+	background-image: url(file:///C:/Users/Hasnain/Desktop/nav-image.jpg);
+	height: 450px;
+}
+.button1{
+	border: 1px solid white;
+	background-color: none;
+	width: 20%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.bannertext{
+	margin-top: 10% !important;
+}
+.border1{
+	border: 1px solid black;
+}
+.border2{
+	border: 1px solid black;
+}
+.border3{
+	border: 1px solid black;
+}
+.banner2{
+	background-color: #788a7c;
+}
+.col1text{
+	color: #6ed198 !important;
+}
+.colum{
+	margin-bottom: 10%;
+}
+.coltext{
+	border: 1px solid black;
+}
+.blog{
+	margin-top: 9%;
+}
+.banner3{
+	background-image: url(file:///C:/Users/Hasnain/Desktop/nav-image.jpg);
+	height: 450px;
+	margin-top: 5%;
+}
+.banner3text{
+	margin-top: 18%;
+}
+.banner4{
+	background-color: #788a7c;
+}
+.button3{
+	border: 1px solid black;
+	background-color: white;
+	width: 25%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.button4{
+	border: 1px solid black;
+	background-color: white;
+	width: 25%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.col1{
+	margin-left: 5%;
+}
